@@ -37,7 +37,7 @@ The owner also has the option to remove an employee from the database, if need b
 
 #Design
 This application follows the database schema containing three variables: 
-! (Employee-Tracker-MySQL/images/schema.png)
+! [Employee-Tracker-MySQL homepage] (Employee-Tracker-MySQL/images/schema.png)
 
 
 You can view the demo of the app here: https://drive.google.com/file/d/1qvJRtgRQ0nPC32WzKMjZ-u5SlNfxkvhW/view
